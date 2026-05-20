@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 03 23:07:23 CST 2025
+saxon-dom-9.0.jar>flexmojos=
+saxon-dom-9.0.jar>flex-mojos-plugin-repository=
+saxon-dom-9.0.pom>flexmojos=
+saxon-dom-9.0.pom>flex-mojos-plugin-repository=
